@@ -1,2 +1,2 @@
 # dataStructures
-1.Linked Lists - Related Problems
+1.Linked Lists - Problems from LeetCode and GeeksForGeeks.
