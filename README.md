@@ -16,6 +16,7 @@
     1. Partition List.
     1. Remove Duplicates From Sorted List.
     1. Remove Duplicates From Sorted List II.
+    1. Reverse Doubly Linked List.
     1. Reverse List II.
     1. Reverse List In K Groups.
     1. Rotate List.
