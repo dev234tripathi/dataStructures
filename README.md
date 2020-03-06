@@ -1,5 +1,7 @@
 # dataStructures
-1. Linked Lists - Problems from LeetCode and GeeksForGeeks.
+Problems from LeetCode and GeeksForGeeks.
+
+1. Linked Lists - 
     1. Add Two Numbers
     1. Basic Operations (insert all 3, delete, reverse, Length, Swap Nodes, Swap Nodes in Pairs, etc)
     1. Convert Binary Number To A Linked List.
