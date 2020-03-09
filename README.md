@@ -23,3 +23,20 @@ Problems from LeetCode and GeeksForGeeks.
     1. Reverse List In K Groups.
     1. Rotate List.
     1. Rotate List By Right.
+   
+ 
+1. Stack - 
+    1. Binary Tree Inorder Traversal(Iterative).
+    1. Binary Tree Postorder Traversal(Iterative).
+    1. Binary Tree Preorder Traversal(Iterative).
+    1. Implement Queue using Stacks.
+    1. Implement Stack Using Queue.
+    1. Mininmum Stack.
+    1. Next Greater Element I.
+    1. Next Greater Element II.
+    1. Next Greater Element III.
+    1. Remove K Digits.
+    1. Reverse String Using Stack.
+    1. Stack Implementation(Array).
+    1. Stack Implementation(LL).
+    1. Valid Parentheses.
