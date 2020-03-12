@@ -1,0 +1,23 @@
+1.One reason to use trees might be because you want to store information that naturally forms a hierarchy. For example, the file system on a computer:
+file system
+
+2.If we organize keys in form of a tree (with some ordering e.g., BST), we can search for a given key in moderate time (quicker than Linked List and slower than arrays). Self-balancing search trees like AVL and Red-Black trees guarantee an upper bound of O(Logn) for search.
+3.We can insert/delete keys in moderate time (quicker than Arrays and slower than Unordered Linked Lists). Self-balancing search trees like AVL and Red-Black trees guarantee an upper bound of O(Logn) for insertion/deletion.
+4.Like Linked Lists and unlike Arrays, Pointer implementation of trees don’t have an upper limit on number of nodes as nodes are linked using pointers.
+
+
+
+Other Applications :
+
+
+
+-Store hierarchical data, like folder structure, organization structure, XML/HTML data.
+-Binary Search Tree is a tree that allows fast search, insert, delete on a sorted data. It also allows finding closest item
+-Heap is a tree data structure which is implemented using arrays and used to implement priority queues.
+-B-Tree and B+ Tree : They are used to implement indexing in databases.
+-Syntax Tree: Used in Compilers.
+-K-D Tree: A space partitioning tree used to organize points in K dimensional space.
+-Trie : Used to implement dictionaries with prefix lookup.
+-Suffix Tree : For quick pattern searching in a fixed text.
+-Spanning Trees and shortest path trees are used in routers and bridges respectively in computer networks
+-As a workflow for compositing digital images for visual effects.

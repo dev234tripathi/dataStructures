@@ -1,0 +1,7 @@
+Algorithm
+1. Starting at root, find the deepest and rightmost node in binary tree and node which we want to delete.
+2. Replace the deepest rightmost node’s data with node to be deleted.
+3. Then delete the deepest rightmost node.
+
+Note: We can also replace node’s data that is to be deleted with any node whose left 
+and right child points to NULL but we only use deepest node in order to maintain the Balance of a binary tree.
