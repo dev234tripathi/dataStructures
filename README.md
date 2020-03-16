@@ -47,3 +47,29 @@ Problems from LeetCode and GeeksForGeeks.
     1. Reverse A Queue.
     
 1. Trees -
+    1. Applications Of Binary Tree.
+    1. Balanced Binary Tree.
+    1. Binary Level Order Traversal.
+    1. Binary Tree Zig Zag Order Traversal.
+    1. Binary Tree Right Side View.
+    1. Convert Binary Tree From Inorder And Postorder.
+    1. Convert Binary Tree From Inorder And Preorder.
+    1. Convert Sorted Array To Binary Search Tree.
+    1. Deletion.
+    1. Diameter Of Given Binary Tree.
+    1. Flatten Binary Tree To Linked Lists.
+    1. Insertion.
+    1. Invert Binary Tree.
+    1. Kth Samllest Element in Binary Search Tree.
+    1. Lowest Commmon Ancestor Of BST.
+    1. Lowest Common Ancestor Of Binary Tree.
+    1. Merge Two Binary Tree.
+    1. Minimum Depth Of Binary Tree.
+    1. Path Sum.
+    1. Path Sum II.
+    1. Recover BST.
+    1. Same Tree.
+    1. Sum Root To Leaf Number.
+    1. Unique BST.
+    1. Unique BST II.
+    1. Validate BST.
